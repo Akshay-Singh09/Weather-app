@@ -1,0 +1,27 @@
+project requirements:
+1) d3.js - graph representation of hourly data
+2) slick.js - for animation 
+3)
+
+design and implementation:
+
+1) header will have general app details
+2) background according to the predicted weather
+3) geolocation for default weather forecast
+4) location search bar
+5) weather detail section
+   * time
+   6) temp(actual/feel like)
+   7) icon
+   8) description
+   9) wind speed and direction
+   10) humidity
+   * pressure
+   * dew points
+   11) air quality
+12) graph for hourly weather
+   13) temp (actual/feel like)
+   14) air quality graph
+15) daily weather prediction in block
+   16)temp
+   17)icon
